@@ -1,2 +1,5 @@
 # node-js
-This repo is dedicated to learning Node JS
+
+This repo is dedicated to learning Node JS.
+
+initial commit
